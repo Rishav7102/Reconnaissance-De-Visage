@@ -20,6 +20,5 @@ Reconnaissance-De-Visage is a face recognition program build on python, which in
 *  Now, again open your terminal in the same folder
 *  run the loaddata.py file using 'python loaddata.py'
 *  A window should appear , taking inpur from your camera and labelling the image to the closest Image that has been stored in its database
-## Suggestions 
-* If anyone has some suggestions regarding this project or probably some other project , then reach out to me at iamanmolpal226@gmail.com
+
   
